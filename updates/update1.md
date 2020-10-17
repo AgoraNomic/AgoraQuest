@@ -1,4 +1,4 @@
-[The player is holding a sign that says "P?" towards a man wearing a tophat, who is presenting a gift to the player. In the background, two players talk and one appears from the hole.](../images/update1.png)
+![The player is holding a sign that says "P?" towards a man wearing a tophat, who is presenting a gift to the player. In the background, two players talk and one appears from the hole.](../images/update1.png)
 
 
 

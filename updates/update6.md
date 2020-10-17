@@ -1,7 +1,7 @@
 You decide to go over to that pit you found before, labelled as "CFJ
 Archives". Carefully, you let yourself drop into its humid, dark chamber...
 
-[The player in a dark room, looking at a plague mask wearing individual, whos eems confused. In the background are pipes and a large drum labeled "PRECEDENT"](../images/update6a.png)
+![The player in a dark room, looking at a plague mask wearing individual, whos eems confused. In the background are pipes and a large drum labeled "PRECEDENT"](../images/update6a.png)
 
 *THUD* You land on the moist, metallic floor, ending an echo throughout the
 network of ancient tubing and plumbing that spans underneath... well, it's
@@ -18,7 +18,7 @@ visiting?"
 
 "PRECEDENT?" you ask.
 
-[A close-up of the plague mask wearing individual.](../images/update6b.png)
+![A close-up of the plague mask wearing individual.](../images/update6b.png)
 
 "That's what this place mostly stores. PRECEDENTS." he explains, then
 points to the tubing in the shadows. "It's what fundamentally runs Agora.

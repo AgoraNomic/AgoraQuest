@@ -1,4 +1,4 @@
-[The player dances against a cosmis backdrop while the pasta woman looks on blanky. The angelic figure is partially visible to their right.](../images/update5.png)
+![The player dances against a cosmis backdrop while the pasta woman looks on blanky. The angelic figure is partially visible to their right.](../images/update5.png)
 
 roll: 55
 
