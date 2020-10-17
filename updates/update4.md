@@ -1,4 +1,4 @@
-[On a cosmic background, the player moves through various dance moves.](../images/update4a.png)
+![On a cosmic background, the player moves through various dance moves.](../images/update4a.png)
 
 Roll: 8
 
