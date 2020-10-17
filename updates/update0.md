@@ -7,7 +7,8 @@ there are any ties. Also, you only get to vote once between updates.
 For your vote, you can choose one of the options I give you in the vein of
 those Choose-Your-Adventure books, or you can just make up your own.
 
-![The player standing outside in Agora, with a hole and a building behind them.](./images/update0.png)
+![The player standing outside in Agora, with a hole and a building behind them.](../images/update0.png)
+
 You're a new PLAYER in AGORA! A fresh, sparkling feeling of EXCITEMENT
 fills you and in your naivety, you are yet not OVERWHELMED by the RULESET.
 
