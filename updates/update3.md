@@ -1,4 +1,4 @@
-![A close-up of the angelic figure's face, glancing sideways.](../images/update3a.png)
+![The same close-up of the angelic figure's face, this time it looks distraught or embarassed](../images/update3a.png)
 
 "Rule 101." it booms, with an infinite, cosmic voice. "I am the holder of
 MONEYS, KARMA and the one to be SATISFIED with INTENTS or not."
@@ -7,8 +7,7 @@ MONEYS, KARMA and the one to be SATISFIED with INTENTS or not."
 "am"
 "AGORA."
 
-
-![The same close-up of the angelic figure's face, this time it looks distraught or embarassed](../images/update3b.png)
+![A close-up of the angelic figure's face, glancing sideways.](../images/update3b.png)
 
 "...Does that answer your question?" it then asks, returning to looking
 divine, but a lot less intimidatingly so. "I'm the avatar of Agora that
