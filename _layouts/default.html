@@ -17,6 +17,17 @@
         table {
             margin-bottom: 1em;
         }
+
+	#content {
+	    max-width: 800px;
+	    font-size: 1.5rem;
+	}
+
+	#content img {
+	    display: block;
+	    max-width: 100%;
+	    margin: 1em auto;
+	}
     </style>
     
     <!-- Javascript -->
@@ -26,7 +37,7 @@
 <body>
     {% include Header/header.html %}
     
-    <div class="container" style="margin-top: 70px">
+    <div id="content" class="container" style="margin-top: 70px">
     {{ content }}
     </div>
  
