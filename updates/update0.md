@@ -19,4 +19,4 @@ So, what do you do?
 - Look for other Agorans and what they're doing.
 - (Write-in)
 
-[G. chooses "Call a CFJ on whether I'm a player."](updates/update1.md)
+[G. chooses "Call a CFJ on whether I'm a player."](update1.md)
