@@ -1,6 +1,12 @@
-![On a cosmic background, the player moves through various dance moves.](../images/update4a.png)
+---
+title: Attempt to SEDUCE AGORA with very SENSUAL MOVEMENTS
+layout: default
+---
 
-Roll: 8
+
+*(Roll: 8)*
+
+![On a cosmic background, the player moves through various dance moves.](../images/update4a.png)
 
 Right there, you start to attempt to SEDUCE AGORA with very SENSUAL
 MOVEMENTS - oooough yeah. You dance and bust out your most alluring bodily

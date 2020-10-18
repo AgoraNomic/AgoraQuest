@@ -1,6 +1,10 @@
+---
+title: Call a CFJ on whether I'm a player
+layout: default
+---
+
+
 ![The player is holding a sign that says "P?" towards a man wearing a tophat, who is presenting a gift to the player. In the background, two players talk and one appears from the hole.](../images/update1.png)
-
-
 
 You raise a CFJ on if you're a PLAYER or not. An Agoran called TOP HAT MAN
 soon arrives, and ASSIGNS the CFJ to emself. Meanwhile, you see a lot of

@@ -1,3 +1,9 @@
+---
+title: Home
+layout: default
+---
+
+
 Hey, welcome to AGORA QUEST. This is an interactive story - you pay me 10
 coins along what you want the protagonist to do, and I'll count it as a
 vote (voting, woo! nomic!!) and then when I have time to continue this,

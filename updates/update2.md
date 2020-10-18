@@ -1,3 +1,9 @@
+---
+title: ~~Carefully read~~ skim the rules for a sweet scam
+layout: default
+---
+
+
 ![The player stares upward at a towering monolith full of indecipherable text.](../images/update2a.png)
 
 

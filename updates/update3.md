@@ -1,3 +1,9 @@
+---
+title: Ask the entity what Rule it is defined by.
+layout: default
+---
+
+
 ![A close-up of the angelic figure's face, glancing sideways.](../images/update3a.png)
 
 "Rule 101." it booms, with an infinite, cosmic voice. "I am the holder of
@@ -6,7 +12,6 @@ MONEYS, KARMA and the one to be SATISFIED with INTENTS or not."
 "I"
 "am"
 "AGORA."
-
 
 ![The same close-up of the angelic figure's face, this time it looks distraught or embarassed](../images/update3b.png)
 

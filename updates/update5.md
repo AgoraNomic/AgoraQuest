@@ -1,6 +1,12 @@
-![The player dances against a cosmis backdrop while the pasta woman looks on blanky. The angelic figure is partially visible to their right.](../images/update5.png)
+---
+title: Change target of seduction dance to the pasta woman
+layout: default
+---
 
-roll: 55
+
+*(Roll: 55)*
+
+![The player dances against a cosmis backdrop while the pasta woman looks on blanky. The angelic figure is partially visible to their right.](../images/update5.png)
 
 You re-target your dance towards the pasta woman, and boomchalaka, you keep
 on busting the groove with your saturday night fever.
