@@ -1,6 +1,7 @@
 ---
 title: Acquaint yourself with (seduce) the Agoran in the pit
 layout: default
+theme: black
 ---
 
 
