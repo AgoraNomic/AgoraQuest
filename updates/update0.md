@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Press here to begin
 layout: default
 ---
 
