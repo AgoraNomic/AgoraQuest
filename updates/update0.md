@@ -1,3 +1,9 @@
+---
+title: Press here to begin
+layout: default
+---
+
+
 Hey, welcome to AGORA QUEST. This is an interactive story - you pay me 10
 coins along what you want the protagonist to do, and I'll count it as a
 vote (voting, woo! nomic!!) and then when I have time to continue this,
@@ -19,4 +25,4 @@ So, what do you do?
 - Look for other Agorans and what they're doing.
 - (Write-in)
 
-[G. chooses "Call a CFJ on whether I'm a player."](update1.md)
+[G. chooses "Call a CFJ on whether I'm a player."](update1.html)

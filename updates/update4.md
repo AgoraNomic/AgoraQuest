@@ -1,6 +1,12 @@
-![On a cosmic background, the player moves through various dance moves.](../images/update4a.png)
+---
+title: Attempt to SEDUCE AGORA with very SENSUAL MOVEMENTS
+layout: default
+---
 
-Roll: 8
+
+*(Roll: 8)*
+
+![On a cosmic background, the player moves through various dance moves.](../images/update4a.png)
 
 Right there, you start to attempt to SEDUCE AGORA with very SENSUAL
 MOVEMENTS - oooough yeah. You dance and bust out your most alluring bodily
@@ -37,4 +43,4 @@ that. Alright?"
 - Invite her to dance with you
 - (Write in)
 
-[Trigon chooses "Change target of seduction dance to the pasta woman"](update5.md)
+[Trigon chooses "Change target of seduction dance to the pasta woman"](update5.html)

@@ -1,3 +1,10 @@
+---
+title: Acquaint yourself with (seduce) the Agoran in the pit
+layout: default
+theme: black
+---
+
+
 You decide to go over to that pit you found before, labelled as "CFJ
 Archives". Carefully, you let yourself drop into its humid, dark chamber...
 
