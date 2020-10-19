@@ -55,3 +55,5 @@ monolith
 what do the ancient CFJ records say about them?
 - Request to learn more about the ancient teachings of CFJs
 - (Write in)
+
+[Falsifian chooses "Ask him about the other Agorans you know (TOP HAT MAN and LADY CAT(...)), what do the ancient CFJ records say about them?"](update7.html)
