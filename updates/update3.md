@@ -28,4 +28,4 @@ Also, from now on, I'll roll a 1d100 to see how well you do an action, if
 it requires it (like fighting or doing something challenging). Rolling high
 is good, rolling low is bad. More tabletop RPG-like
 
-[ATMunn chooses "Attempt to SEDUCE AGORA with very SENSUAL MOVEMENTS."](update4.md)
+[ATMunn chooses "Attempt to SEDUCE AGORA with very SENSUAL MOVEMENTS."](update4.html)

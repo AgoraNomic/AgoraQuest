@@ -27,4 +27,4 @@ not (although the exact time of registration is still ambiguous).
 - Go DEBATE with the other Agorans
 - (Write-in)
 
-[nix chooses "~~carefully read~~ skim the rules for a sweet scam"](update2.md)
+[nix chooses "~~carefully read~~ skim the rules for a sweet scam"](update2.html)

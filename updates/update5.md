@@ -33,4 +33,4 @@ end! Do not underestimate the power of CRINGE!
 - Attempt to SEDUCE the RULESET
 - (Write in)
 
-[Trigon chooses "Acquaint yourself with (seduce) the Agoran in the pit"](update6.md)
+[Trigon chooses "Acquaint yourself with (seduce) the Agoran in the pit"](update6.html)

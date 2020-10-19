@@ -43,4 +43,4 @@ that. Alright?"
 - Invite her to dance with you
 - (Write in)
 
-[Trigon chooses "Change target of seduction dance to the pasta woman"](update5.md)
+[Trigon chooses "Change target of seduction dance to the pasta woman"](update5.html)

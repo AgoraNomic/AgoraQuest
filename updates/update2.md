@@ -31,4 +31,4 @@ at you, but it doesn't say anything.
 - Visit the nearby fountain
 - (Write-in)
 
-[Jason chooses "Ask the entity what Rule it is defined by."](update3.md)
+[Jason chooses "Ask the entity what Rule it is defined by."](update3.html)
