@@ -74,3 +74,5 @@ that you could use if you need to for when you're back on the surface.
 - Warn him about the avatar of Agora struck behind the Ruleset.
 - Explore the rest of Agora further.
 - (Write-in)
+
+[Aris chooses "Request to learn more about the ancient teachings of CFJs. Perhaps there are primordial secrets that will unlock arcane powers, enabling you to find non-combat solutions to problems, unlock new areas with hidden treasures, or otherwise become more awesome?"](update8.md)
