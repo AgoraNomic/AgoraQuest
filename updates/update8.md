@@ -75,3 +75,5 @@ SPELL LEARNT: FILLIBUSTER. DARK ART. Level 1. Slows down time moderately in a ch
 - Apologise and wait out his lesson, even if you aren’t really understanding much at all of it.
 
 - (Write-in)
+
+[ATMunn chooses "Make an excuse to get yourself out and return to the surface, and check out the rest of Agora"](update9.md)
