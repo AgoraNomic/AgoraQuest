@@ -1,5 +1,5 @@
 ---
-title: Request to learn more about the ancient teachings of CFJs. Perhaps there are primordial secrets that will unlock arcane powers, enabling you to find non-combat solutions to problems, unlock new areas with hidden treasures, or otherwise become more awesome?
+title: Request to learn more about the ancient teachings of CFJs.
 layout: default
 theme: black
 ---
