@@ -1,3 +1,8 @@
+---
+title: Ask TOP HAT MAN about the details of the scam that just occurred
+layout: default
+---
+
 ![Top Hat Man stands in front of Lady Catastrovania, who is triumphantly pointing up at a mass of green in the background.](../images/update10a.png)
 
 "So, what kind of scam has happened here?" you ask TOP HAT MAN.
