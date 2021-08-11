@@ -47,3 +47,5 @@ And nearby, you find LADY CATASTROVANIA (... ) with another, meek-looking Agoran
 - Report to the REFEREE the Agoran avatar that is stuck behind the RULESET
 - Endorse LADY CAT and suggest that her punishment should be less severe.
 - (Write-in)
+
+[Trigon chooses "Ask TOP HAT MAN about the details of the scam that just occurred."](update10.html)
