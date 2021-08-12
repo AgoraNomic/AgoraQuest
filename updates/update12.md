@@ -1,3 +1,8 @@
+---
+title: Activate self, then apologize to everyone for disappearing for a while.
+layout: default
+---
+
 ![The player is lying on the ground, somewhat dazed, with a green "ACTIVATED" sign above their head](../images/update12a.png)
 
 "I... activate... myself." you announce as you wake up, still a bit dazed

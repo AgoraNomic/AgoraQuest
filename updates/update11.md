@@ -1,6 +1,6 @@
 ---
 title: ...
-layout: defualt
+layout: default
 ---
 
 * Activate self by announcement

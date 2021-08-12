@@ -49,3 +49,5 @@ TOP HAT MAN then sips air through his teeth. "Yeaaaaah, but..."
 - Vote for MAGNUS GLORIOUS' Proposal to fix Agoraball. It's heavily bureaucratic, redundant, and very technically-worded. It is likely more robust and safer from scams, but it's going to be more difficult for a player of your experience to reach a competitive level in comparison to other, more fluent and veteran Agorans.
 
 - (Write in)
+
+[...](update11.md)
