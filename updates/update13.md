@@ -53,3 +53,5 @@ There's currently available:
   choose-your-adventure-like game for the Agorans to play for money and busk
   some dosh that way.
 - Write-in
+
+[Trigon chooses "Choose to become the TAILOR"](update14.html)
